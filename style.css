@@ -1,0 +1,28 @@
+h1 {
+    color: aquamarine;
+}
+
+.head {
+    border: solid;
+    border-color: red;
+}
+
+.body {
+    border: solid;
+    border-color: orange;
+}
+
+.camel {
+    border: solid;
+    border-color: seagreen;
+}
+
+.chameleon {
+    border: solid;
+    border-color: seagreen;
+}
+
+.panda {
+    border: solid;
+    border-color: seagreen;
+}
